@@ -14,7 +14,7 @@ const History = () => {
                 <h1 id="titulo">Historial de compra</h1>
                 <div className="content-all">
                     <div className="content">
-                        <img src="../Img/balon.jpeg" alt="Plattéa Logo" />
+                        <img src="../Img/balon.png" alt="Balon  " />
                         <div className="content-product">
                             <div className="title-product">Balon</div>
                             <div className="mark">Golty</div>
@@ -25,7 +25,7 @@ const History = () => {
                 </div>
                 <div className="content-all">
                     <div className="content">
-                        <img src="../Img/balon.jpeg" alt="Plattéa Logo" />
+                        <img src="../Img/balon.png" alt="Plattéa Logo" />
                         <div className="content-product">
                             <div className="title-product">Balon</div>
                             <div className="mark">Golty</div>
@@ -36,7 +36,7 @@ const History = () => {
                 </div>
                 <div className="content-all">
                     <div className="content">
-                        <img src="../Img/balon.jpeg" alt="Plattéa Logo" />
+                        <img src="../Img/balon.png" alt="Plattéa Logo" />
                         <div className="content-product">
                             <div className="title-product">Balon</div>
                             <div className="mark">Golty</div>
