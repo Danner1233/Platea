@@ -854,8 +854,10 @@
 }
 
 .body-Store .car-item img {
-    width: 100%;
+    width: 230px;
+    height: 150px;
     border-radius: 8px;
+
 }
 
 .body-Store .car-title {
