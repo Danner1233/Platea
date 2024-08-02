@@ -16,7 +16,7 @@ const Login = () => {
           </div>
           <div className="input-container-login">
             <input type="password" id="password" name="password" required />
-            <label htmlFor="password">Contraseña</label>
+            <label htmlFor="password">Contrasena</label>
           </div>
           <button type="submit" className="login-button-login">Ingresar</button>
           <div className="links-login">

@@ -12,7 +12,7 @@ const Productos = () => {
           <div className="product-productos">
             <img
               className="img-productos"
-              src="../balon.jpeg"
+              src="../img/"
               alt="Balón Golty"
             />
             <div className="details-productos">
@@ -29,7 +29,7 @@ const Productos = () => {
           <div className="product-productos">
             <img
               className="img-productos"
-              src="../balon.jpeg"
+              src="../img/galletas.webs"
               alt="Paracetamol"
             />
             <div className="details-productos">
@@ -59,7 +59,7 @@ const Productos = () => {
           <div className="product-productos">
             <img
               className="img-productos"
-              src="../balon.jpeg"
+              src="../img/galleta.webp"
             />
             <div className="details-productos">
               <span className="span-productos">chocolate - una unidad</span>
