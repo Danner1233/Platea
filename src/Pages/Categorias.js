@@ -26,7 +26,7 @@ const Categorias = () => {
                         <div className="boton"><Link to="/tiendas"><input type="button" defaultValue="peliflix" /></Link></div>
                         <div className="boton"><Link to="/tiendas"><input type="button" defaultValue="pelis" /></Link></div>
                         <div className="boton"><Link to="/tiendas"><input type="button" defaultValue="cueva" /></Link></div>
-                        <div className="boton"><input type="button" defaultValue="animeflv" /></div>
+                        <div className="boton"><Link to="/tiendas"><input type="button" defaultValue="animeflv" /></Link></div>
                     </div>
                 </div>
                 <div className="content">
@@ -35,10 +35,10 @@ const Categorias = () => {
                         <hr className="custom-line" />
                     </div>
                     <div className="categoria-cubiculo">
-                        <div className="boton"><input type="button" defaultValue="tennis" /></div>
-                        <div className="boton"><input type="button" defaultValue="bascket" /></div>
-                        <div className="boton"><input type="button" defaultValue="golf" /></div>
-                        <div className="boton"><input type="button" defaultValue="sports" /></div>
+                        <div className="boton"><Link to="/tarjeta"><input type="button" defaultValue="tennis" /></Link></div>
+                        <div className="boton"><Link to="/tarjeta"><input type="button" defaultValue="bascket" /></Link></div>
+                        <div className="boton"><Link to="/tarjeta"><input type="button" defaultValue="golf" /></Link></div>
+                        <div className="boton"><Link to="/tarjeta"><input type="button" defaultValue="sports" /></Link></div>
                     </div>
                 </div>
                 <div className="content">
@@ -47,10 +47,10 @@ const Categorias = () => {
                         <hr className="custom-line" />
                     </div>
                     <div className="categoria-cubiculo">
-                        <div className="boton"><input type="button" defaultValue="valorant" /></div>
-                        <div className="boton"><input type="button" defaultValue="brawlstar" /></div>
-                        <div className="boton"><input type="button" defaultValue="mario" /></div>
-                        <div className="boton"><input type="button" defaultValue="clash " /></div>
+                        <div className="boton"><Link to="/tarjeta"><input type="button" defaultValue="valorant" /></Link></div>
+                        <div className="boton"><Link to="/tarjeta"><input type="button" defaultValue="brawlstar" /></Link></div>
+                        <div className="boton"><Link to="/tarjeta"><input type="button" defaultValue="mario" /></Link></div>
+                        <div className="boton"><Link to="/tarjeta"><input type="button" defaultValue="clash " /></Link></div>
                     </div>
                 </div>
             </div>
