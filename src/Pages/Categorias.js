@@ -2,6 +2,7 @@ import React from 'react';
 import NavBarHome from '../Components/Layout/NavBarHome';
 import '../index.css';
 import Footer from '../Components/Layout/Footer';
+import { Link } from 'react-router-dom';
 
 const buttons = document.querySelectorAll('.boton');
 const colors = ['red', 'green', 'aquamarine', 'yellow','orange'];
@@ -22,9 +23,9 @@ const Categorias = () => {
                         <hr className="custom-line" />
                     </div>
                     <div className="categoria-cubiculo">
-                        <div className="boton"><input type="button" defaultValue="peliflix" /></div>
-                        <div className="boton"><input type="button" defaultValue="pelis" /></div>
-                        <div className="boton"><input type="button" defaultValue="cueva" /></div>
+                        <div className="boton"><Link to="/tiendas"><input type="button" defaultValue="peliflix" /></Link></div>
+                        <div className="boton"><Link to="/tiendas"><input type="button" defaultValue="pelis" /></Link></div>
+                        <div className="boton"><Link to="/tiendas"><input type="button" defaultValue="cueva" /></Link></div>
                         <div className="boton"><input type="button" defaultValue="animeflv" /></div>
                     </div>
                 </div>
