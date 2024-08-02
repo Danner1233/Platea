@@ -9,10 +9,10 @@ const Profile = () => {
             <NavBar/>
             <main className="main-perfil">
                 <section className="profile-perfil">
-                    <img src="../fondo.jpeg" alt="Banner" className="banner-perfil" />
+                    <img src="../img/fonfooof.jpeg" alt="Banner" className="banner-perfil" />
                     <div className="profile-info-perfil">
                         <div className="profile-picture-perfil">
-                            <img src="../jose.jpeg" alt="Jose Espinela Ayala" />
+                            <img src="../img/logo (13).png" alt="Jose Espinela Ayala" />
                         </div>
                         <h1 className="name-perfil">Jose Espinela Ayala</h1>
                         <div className="contact-info-perfil">

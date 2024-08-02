@@ -7,7 +7,7 @@ const Register = () => {
       <div className="container-register">
         <div className="logo-container-register">
           <div className="logo-circle-register">
-            <img src="../Logo.png" alt="Logo" />
+            <img src="../img/Logo.png" alt="Logo" />
           </div>
         </div>
         <form className="registration-form-register">
