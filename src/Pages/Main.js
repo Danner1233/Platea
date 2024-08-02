@@ -11,11 +11,11 @@ const Main = () => {
       <NavBarHome />
       <Carrusel />
       <div className="container">
-        <Link to  =  "/tienda" className="card-link">
+        <Link to  =  "/tiendauser" className="card-link">
           <div className="card">
             <div className="face face1">
               <div className="content">
-                <img src="./netflix-symbol-black.png" alt="Netflix Logo" />
+                <img src="../img/netflix-symbol-black.png" alt="Netflix Logo" />
               </div>
             </div>
             <div className="face face2">
@@ -24,17 +24,17 @@ const Main = () => {
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                   eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
-                <Link to="/tienda">Leer mas</Link>
+                <Link to="/tiendauser">Leer mas</Link>
               </div>
             </div>
           </div>
         </Link>
 
-        <Link to  =  "/tienda" className="card-link">
+        <Link to  =  "/tiendauser" className="card-link">
           <div className="card">
             <div className="face face1">
               <div className="content">
-                <img className="img" src="./netflix-symbol-black.png" alt="Netflix Logo" />
+                <img className="img" src="./img/hbo.jpeg" alt="Netflix Logo" />
               </div>
             </div>
             <div className="face face2">
@@ -43,17 +43,17 @@ const Main = () => {
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                   eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
-                <Link to = "/tienda">Leer mas</Link>
+                <Link to = "/tiendauser">Leer mas</Link>
               </div>
             </div>
           </div>
         </Link>
 
-        <Link to = "/tienda" className="card-link">
+        <Link to = "/tiendauser" className="card-link">
           <div className="card">
             <div className="face face1">
               <div className="content">
-                <img src="./netflix-symbol-black.png" alt="Netflix Logo" />
+                <img src="../img/Prime.jpeg" alt="Netflix Logo" />
               </div>
             </div>
             <div className="face face2">
@@ -62,7 +62,7 @@ const Main = () => {
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                   eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
-                <Link to = "/tienda">Leer mas</Link>
+                <Link to = "/tiendauser">Leer mas</Link>
               </div>
             </div>
           </div>
@@ -70,11 +70,11 @@ const Main = () => {
       </div>
 
       <div className="container">
-        <Link to = "/tienda" className="card-link">
+        <Link to = "/tiendauser" className="card-link">
           <div className="card">
             <div className="face face1">
               <div className="content">
-                <img src="./netflix-symbol-black.png" alt="Netflix Logo" />
+                <img src="../img/Prime.jpeg" alt="Netflix Logo" />
               </div>
             </div>
             <div className="face face2">
@@ -83,17 +83,17 @@ const Main = () => {
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                   eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
-                <Link to = "/tienda">Leer mas</Link>
+                <Link to = "/tiendauser">Leer mas</Link>
               </div>
             </div>
           </div>
         </Link>
 
-        <Link to = "/tienda" className="card-link">
+        <Link to = "/tiendauser" className="card-link">
           <div className="card">
             <div className="face face1">
               <div className="content">
-                <img className="img" src="./netflix-symbol-black.png" alt="Netflix Logo" />
+                <img className="img" src="../img/netflix-symbol-black.png" alt="Netflix Logo" />
               </div>
             </div>
             <div className="face face2">
@@ -102,17 +102,17 @@ const Main = () => {
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                   eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
-                <Link to = "/tienda">Leer mas</Link>
+                <Link to = "/tiendauser">Leer mas</Link>
               </div>
             </div>
           </div>
         </Link>
 
-        <Link to = "/tienda" className="card-link">
+        <Link to = "/tiendauser" className="card-link">
           <div className="card">
             <div className="face face1">
               <div className="content">
-                <img src="./netflix-symbol-black.png" alt="Netflix Logo" />
+                <img src="../img/hbo.jpeg" alt="Netflix Logo" />
               </div>
             </div>
             <div className="face face2">
@@ -121,7 +121,7 @@ const Main = () => {
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                   eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
-                <Link to = "/tienda">Leer mas</Link>
+                <Link to = "/tiendauser">Leer mas</Link>
               </div>
             </div>
           </div>

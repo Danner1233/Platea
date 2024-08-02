@@ -22,7 +22,7 @@ const NavBar = () => {
   return (
     <div className="header-container">
       <div className="logo">
-        <img src="../pnologo.png" alt="Plattéa Logo" />
+        <img src="../img/pnologo.png" alt="Plattéa Logo" />
         <span>PLATTÉA</span>
       </div>
       <nav>
@@ -50,7 +50,7 @@ const NavBar = () => {
         </div>
         
         <div className="user-menu" onClick={toggleMenu}>
-          <img src="../A.jpeg" alt="User Icon" className="user-icon" />
+          <img src="../img/A.jpeg" alt="User Icon" className="user-icon" />
           <div id="dropdown-menu" className={`dropdown-menu ${menuVisible ? 'show' : ''}`}>
             <div className="dropdown-header">
               <img src="../A.jpeg" alt="User Icon" className="dropdown-user-icon" />

@@ -27,13 +27,13 @@ const Car = () => {
               <div className="precio">1000000000</div>
             </div>
             <form action method="post">
-              <input type="image" src="../delete.png" alt="Enviar" width="50px" height="50px" />
+              <input type="image" src="../img/delete.png" alt="Enviar" width="50px" height="50px" />
             </form>
           </div>
         </div>
         <div className="content-all">
           <div className="content">
-            <img src="../img/logo (3).png" alt='' />
+            <img src="../img/logo (5).png" alt='' />
             <div className="content-product">
               <h1 className="title-product">Camion</h1>
               <p className="mark">renoul</p>
@@ -48,7 +48,7 @@ const Car = () => {
               <div className="precio">1000000000</div>
             </div>
             <form action method="post">
-              <input type="image" src="../delete.png" alt="Enviar" width="50px" height="50px" />
+              <input type="image" src="../img/delete.png" alt="Enviar" width="50px" height="50px" />
             </form>
           </div>
         </div>
