@@ -74,43 +74,43 @@ const Tiendauser = () => {
             </section>
             <section className="car-list">
                 <div className="car-item" data-brand="nissan" ref={(el) => carItemsRef.current[0] = el}>
-                    <img src="../img/logo (4).png" alt="Nissan D22np300 Frontier 2.5" />
+                    <img src="../img/carro1.jpeg" alt="Nissan D22np300 Frontier 2.5" />
                     <p className="car-title">Nissan D22np300 Frontier 2.5</p>
                     <p className="car-brand">Nissan</p>
                     <p className="car-price">$ 60.000.000</p>
                 </div>
                 <div className="car-item" data-brand="nissan" ref={(el) => carItemsRef.current[1] = el}>
-                    <img src="../img/logo (3).png" alt="Nissan March 1.6 Advance At" />
+                    <img src="../img/carro2.jpeg" alt="Nissan March 1.6 Advance At" />
                     <p className="car-title">Nissan March 1.6 Advance At</p>
                     <p className="car-brand">Nissan</p>
                     <p className="car-price">$ 32.000.000</p>
                 </div>
                 <div className="car-item" data-brand="nissan" ref={(el) => carItemsRef.current[2] = el}>
-                    <img src="../img/logo (4).png" alt="Nissan Qashqai 2.0 Exclusive" />
+                    <img src="../img/carro3.jpeg" alt="Nissan Qashqai 2.0 Exclusive" />
                     <p className="car-title">Nissan Qashqai 2.0 Exclusive</p>
                     <p className="car-brand">Nissan</p>
                     <p className="car-price">$ 102.000.000</p>
                 </div>
                 <div className="car-item" data-brand="chevrolet" ref={(el) => carItemsRef.current[3] = el}>
-                    <img src="../img/logo (4).png" alt="Chevrolet Onix 1.4 LT" />
+                    <img src="../img/carro4.jpeg" alt="Chevrolet Onix 1.4 LT" />
                     <p className="car-title">Chevrolet Onix 1.4 LT</p>
                     <p className="car-brand">Chevrolet</p>
                     <p className="car-price">$ 45.000.000</p>
                 </div>
                 <div className="car-item" data-brand="renault" ref={(el) => carItemsRef.current[4] = el}>
-                    <img src="../img/logo (4).png" alt="Renault Duster 1.6 Dynamique" />
+                    <img src="../img/carro5.jpeg" alt="Renault Duster 1.6 Dynamique" />
                     <p className="car-title">Renault Duster 1.6 Dynamique</p>
                     <p className="car-brand">Renault</p>
                     <p className="car-price">$ 55.000.000</p>
                 </div>
                 <div className="car-item" data-brand="mercedes" ref={(el) => carItemsRef.current[5] = el}>
-                    <img src="../img/logo (4).png" alt="Mercedes Benz C200" />
+                    <img src="../img/carro6.jpeg" alt="Mercedes Benz C200" />
                     <p className="car-title">Mercedes Benz C200</p>
                     <p className="car-brand">Mercedes</p>
                     <p className="car-price">$ 150.000.000</p>
                 </div>
                 <div className="car-item" data-brand="suzuki" ref={(el) => carItemsRef.current[6] = el}>
-                    <img src="../img/logo (4).png" alt="Suzuki Swift 1.2 GLX" />
+                    <img src="../img/carro7.jpeg" alt="Suzuki Swift 1.2 GLX" />
                     <p className="car-title">Suzuki Swift 1.2 GLX</p>
                     <p className="car-brand">Suzuki</p>
                     <p className="car-price">$ 30.000.000</p>
