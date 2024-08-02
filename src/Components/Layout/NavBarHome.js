@@ -8,7 +8,7 @@ const Navbar = () => {
         <header>
             <div className="header-container">
                 <div className="logo">
-                    <img src="../pnologo.png" alt="Plattéa Logo" />
+                    <img src="../img/pnologo.png" alt="Plattéa Logo" />
                     <span>PLATTÉA</span>
                 </div>
                 <nav>
